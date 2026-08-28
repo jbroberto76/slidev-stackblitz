@@ -1,0 +1,23 @@
+.slidev-layout {
+    p {
+      font-size: 24px
+    }
+  
+    ul, ol {
+      font-size: 24px;
+      padding: 10px;
+    }
+
+    blockquote {
+      border-left: 4px solid #014da5;
+      margin-right: 24px;
+      margin-bottom: 30px;
+      font-size: 28px;
+      padding-left: 10px;
+      line-height: 1.5;
+    }
+  }
+
+  pre, code {
+    --uno: select-text;
+  }
